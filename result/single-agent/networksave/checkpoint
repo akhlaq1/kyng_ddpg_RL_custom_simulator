@@ -1,0 +1,2 @@
+model_checkpoint_path: "actorcritc-5-3-14-54-2020.ckpt-1"
+all_model_checkpoint_paths: "actorcritc-5-3-14-54-2020.ckpt-1"
